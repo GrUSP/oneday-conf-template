@@ -13,4 +13,4 @@ To create the website for a new conference
 6. remove the README.md file
 7. write the DNS cname record in the CNAME file: 201x.newconfday.it
 8. push to origin
-9 set the CNAME record on DNS
+9. set the CNAME record on DNS
