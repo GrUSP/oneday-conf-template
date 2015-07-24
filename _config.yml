@@ -3,4 +3,3 @@ pygments: true
 permalink: /blog/:title
 rdiscount:
   extensions: [smart]
-conf_data: "PLACE, DATA"
