@@ -99,7 +99,7 @@ h4 a{
 	text-decoration: none;
 }
 
-.sponsors h4, h4.deco{
+.supporter h4, h4.deco{
 	background: transparent url(../img/bg_h4_line.png) no-repeat center center;
 	margin-bottom: 20px;
 }
@@ -230,7 +230,7 @@ a.more:hover{
 
 
 /**/
-.alpha_8, .alpha_16, .alpha_24, .alpha_32, .sponsors{
+.alpha_8, .alpha_16, .alpha_24, .alpha_32, .supporter{
 	padding: 60px 0 0 0;
 }
 .alpha_8{
@@ -655,12 +655,12 @@ a:hover.slides{
 }
 
 
-/* Sponsors */
-.sponsors{
+/* supporter */
+.supporter{
 	text-align: center;
 	margin-bottom: 80px;
 }
-.sponsors .banner{
+.supporter .banner{
 	display: inline-block;
 	margin-left: 1%;
 	margin-right: 1%;
@@ -671,33 +671,33 @@ a:hover.slides{
 	-webkit-box-shadow: 0 0 5px rgba(0,0,0,.5);
 	box-shadow: 0 0 5px rgba(0,0,0,.5);
 }
-.sponsors .banner img{
+.supporter .banner img{
 	width: 100%;
 	height: auto;
 }
 
-.sponsors h4 {
+.supporter h4 {
 	font-size: 24px;
 
 }
 
-.sponsors .gold {
+.supporter .gold {
 	color: #DBB541;
 }
 
-.sponsors .silver {
+.supporter .silver {
 	color: #BFBFBF;
 }
 
-.sponsors .bronze {
+.supporter .bronze {
 	color: #CD7F32;
 }
 
-.sponsors li {
+.supporter li {
 	text-align: left;
 }
 
-.sponsors  .euro {
+.supporter  .euro {
 	font-family: helvetica, verdana, arial, helve, sans-serif;
 	text-align: left;
 	letter-spacing: normal;
@@ -705,19 +705,19 @@ a:hover.slides{
 	font-weight: 800;
 }
 
-.gold_sponsors, .silver_sponsors, .bronze_sponsors{
+.gold_supporter, .silver_supporter, .bronze_supporter{
 	clear: both;
 	text-align: center;
 	margin-bottom: 60px;
 }
 
-.gold_sponsors .banner {
+.gold_supporter .banner {
 	width: 21.68%;
 }
-.silver_sponsors .banner{
+.silver_supporter .banner{
 	width: 16.8%;
 }
-.bronze_sponsors .banner{
+.bronze_supporter .banner{
 	width: 13.5%;
 }
 
